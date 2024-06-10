@@ -2,6 +2,9 @@
 
 ![](https://media3.giphy.com/media/xZsLh7B3KMMyUptD9D/giphy.gif?cid=6c09b952apzex1k0g9ip1hri6ihfix1t43n4sgmbizdpejsb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+
+<center>
+  ![](https://lh4.googleusercontent.com/proxy/b8at_7dc3q9vJ8CkzJ_TfeyRpQbYai2onv0bdA9DIYDBIZnbMSmtEUYW1to4WITBi1WbHbpRX0BL_i65kiU7Bw5X694kl99DiWS0aTMPBN9GXBbPaiRrmDnxhO5RZL6HQxn_tsFQ1LEh8Nmg6t-g7kLDr9mWxg)</center>
 A computer engineer student from King Mongkut's Institute of Technology Ladkrabang
 ----------------------------------------------------------------------------------
 
