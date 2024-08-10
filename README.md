@@ -15,3 +15,4 @@ A computer engineer student from King Mongkut's Institute of Technology Ladkraba
 <a href="https://github.com/taphasin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taphasin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/taphasin"><img src="https://github-readme-stats.vercel.app/api?username=taphasin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="taphasin's GitHub stats" /></a>
 
+* English Proficiency Test : CEFR B2 [Report card](https://drive.google.com/file/d/1bF3g4IpotmyGHj3e4byWFyyVSOqKruRA/view?usp=sharing)
